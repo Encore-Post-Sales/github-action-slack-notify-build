@@ -1,4 +1,4 @@
-name: 'Slack Notify Build - Status Update'
+name: 'Slack Notify Build - Status'
 description: 'Report GitHub Actions build status on Slack'
 branding:
   icon: message-square
